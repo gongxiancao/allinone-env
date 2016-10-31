@@ -1,5 +1,5 @@
 {
-  "name": "allinone-env",
+  "name": "ofa-env",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gongxiancao/allinone-env.git"
+    "url": "git+https://github.com/gongxiancao/ofa-env.git"
   },
   "author": "gongxiancao",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gongxiancao/allinone-env/issues"
+    "url": "https://github.com/gongxiancao/ofa-env/issues"
   },
-  "homepage": "https://github.com/gongxiancao/allinone-env#readme"
+  "homepage": "https://github.com/gongxiancao/ofa-env#readme"
 }
