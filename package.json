@@ -1,5 +1,5 @@
 {
-  "name": "framework-env",
+  "name": "allinone-env",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gongxiancao/framework-env.git"
+    "url": "git+https://github.com/gongxiancao/allinone-env.git"
   },
   "author": "gongxiancao",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gongxiancao/framework-env/issues"
+    "url": "https://github.com/gongxiancao/allinone-env/issues"
   },
-  "homepage": "https://github.com/gongxiancao/framework-env#readme"
+  "homepage": "https://github.com/gongxiancao/allinone-env#readme"
 }
